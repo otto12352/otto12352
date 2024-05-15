@@ -1,7 +1,7 @@
-- 👋 Hi, I’m LiuAoxiang
-- 👀 I’m interested in computergame and want to make a game independently
-- 🌱 I’m currently learning java
-- 💞️ I hope to learn many useful or cool new knowledge and make friends with you
-- 📫 To contact me, please visit my email:  liuaoxiang233@163.com
-- 我现在是一名大一学生，希望学习和接触到很酷很有用的知识
-  I'm a freshman now. I hope to learn and contact cool and useful knowledge
+- 👋 Hi, 我叫刘傲翔
+
+- 🌱 I’m 正在学习虚幻引擎c++开发
+- 💞️ 我希望得到你的指点
+- 📫 如果要联系我，这是我的邮箱:  liuaoxiang233@163.com
+- 📫这是我的QQ:  1690978007  ,如果要联系我请说明来意。
+
